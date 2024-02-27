@@ -1,10 +1,11 @@
 # [Backstage](https://backstage.io)
 
-This is your newly scaffolded Backstage App, Good Luck!
+Backstage created from template
 
-To start the app, run:
+To run the server run:
 
 ```sh
 yarn install
 yarn dev
 ```
+
